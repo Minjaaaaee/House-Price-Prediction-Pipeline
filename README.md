@@ -1,4 +1,4 @@
-# 🏠 House Prices: Advanced Regression Techniques
+# House Prices: Advanced Regression Techniques
 > **Feature Engineering Pipeline & Predictive Modeling with XAI**
 
 본 프로젝트는 실제 데이터를 활용하여 머신러닝 성능 향상을 위한 **특성 공학(Feature Engineering) 파이프라인**을 설계하고, 전처리 및 변수 선택 전략에 따른 성능 차이를 비교·분석하는 것을 목표로 한다.
@@ -105,4 +105,4 @@
 
 ## 최종 결론
 
-본 프로젝트를 통해 체계적인 데이터 전처리와 파생 변수 생성이 모델 성능에 미치는 정량적인 영향을 검증하였습니다. 특히 SHAP 분석 결과, 주택의 '**총 면적(TotalSF)**'과 '**품질 등급(OverallQual)**'이 가격 결정의 핵심 지표임을 입증하였으며, 최적화된 파이프라인을 통해 높은 설명력($R^2 > 0.90$)을 가진 예측 모델을 성공적으로 구현하였습니다.
+본 프로젝트를 통해 체계적인 데이터 전처리와 파생 변수 생성이 모델 성능에 미치는 정량적인 영향을 검증하였다. 특히 SHAP 분석 결과, 주택의 '**총 면적(TotalSF)**'과 '**품질 등급(OverallQual)**'이 가격 결정의 핵심 지표임을 입증하였으며, 최적화된 파이프라인을 통해 높은 설명력($R^2 > 0.90$)을 가진 예측 모델을 성공적으로 구현하였다.
